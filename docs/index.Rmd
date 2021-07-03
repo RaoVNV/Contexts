@@ -1,5 +1,5 @@
 ---
-title: "Contexts in Statistics: Main Project Page"
+title: "Contexts in Statistics Instruction: Main Project Page"
 output: rmdformats::readthedown
 ---
 
@@ -20,12 +20,18 @@ This question was at the heart of an inquiry made by [V.N. Vimal Rao](https://ra
 
 Access project materials here: 
 
-- [USCOTS 2019 Poster](/USCOTS 2019.pdf)
-- [LSGSC 2019 Final Abstract](/LSGSC 2019 Final Abstract.pdf)
+- [USCOTS 2019 Poster](https://github.com/RaoVNV/Contexts/blob/main/USCOTS%202019.pdf)
+- [LSGSC 2019 Final Abstract](https://github.com/RaoVNV/Contexts/blob/main/LSGSC%202019%20Final%20Abstract.pdf)
 
-# Out-of-class Podcasts on context to support in-class activities on content
+# Using podcasts to integrate context and content
 
 Instructors often lament the "tyranny of context", in that students' prior knowledge about contexts used in statistics instruction manifests in activities meant to foster their development of statistical content knowledge. However, statistical thinking requires deep and meaningful interactions with context. How can we support students' context knowledge without taking up too much time in class? Podcasts is one option. 
+
+Initial results from the pilot phase of a design based research study investigating how podcasts can be used to support statistics instruction were presented at the [2021 Annual Meeting of the American Psychological Association](https://convention.apa.org/). 
+
+Access project materials here: 
+
+- [APA 2021 poster]() *File to be posted by August 12, 2021*
 
 ## Project Team
 
