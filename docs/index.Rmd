@@ -1,0 +1,37 @@
+---
+title: "Contexts in Statistics: Main Project Page"
+output: rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmdformats)
+```
+
+"There is no statistics without context." (Rao, 1975)^[Rao, C. R. (1975). Teaching of statistics at the secondary level: An interdisciplinary approach. International. *Journal of Mathematical Education in Science and Technology, 6*, 151-162]
+
+With context so inexorably tied to statistics instruction, how should statistics instructors include context instruction while focusing on developing students' content knowledge in statistics classes? 
+
+This question is at the heart of several small investigations conducted by a team of scholars. Together, they serve as a starting point and provide some creative ideas to help teachers design their statistics courses. 
+
+# How many datasets should I use? 
+
+This question was at the heart of an inquiry made by [V.N. Vimal Rao](https://raovnv.github.io/research.html) in the Spring of 2019. These considerations, balancing the cost of cognitive load with the benefit of schema building and abstraction were presented as a poster at the [2019 US Conference on Teaching Statistics](https://www.causeweb.org/cause/uscots/uscots19), and subsequently as an oral presentation at the [2019 Learning Sciences Graduate Student Conference](https://sites.google.com/view/lsgsc2021/archives/2019-archive?authuser=0).
+
+Access project materials here: 
+
+- [USCOTS 2019 Poster](/USCOTS 2019.pdf)
+- [LSGSC 2019 Final Abstract](/LSGSC 2019 Final Abstract.pdf)
+
+# Out-of-class Podcasts on context to support in-class activities on content
+
+Instructors often lament the "tyranny of context", in that students' prior knowledge about contexts used in statistics instruction manifests in activities meant to foster their development of statistical content knowledge. However, statistical thinking requires deep and meaningful interactions with context. How can we support students' context knowledge without taking up too much time in class? Podcasts is one option. 
+
+## Project Team
+
+This project was conducted by members of [The Link Tank](z.umn.edu/TheLinkTank). In alphabetical order, the team members contributing to this project are: 
+
+- Reba Koenen
+- Margaret Sullivan
+- Nathan Rubin
+- [V.N. Vimal Rao](https://raovnv.github.io/research.html)
