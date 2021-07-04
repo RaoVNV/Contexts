@@ -32,8 +32,13 @@ Initial results from the pilot phase of a design based research study investigat
 Access project materials here: 
 
 - [APA 2021 poster]() *File to be posted by August 12, 2021*
-- [Podcast about PC Mahalanobis](https://github.com/RaoVNV/Contexts/raw/main/podcast20200903pcmahalanobis.mp3)
-- [Podcast about Working Memory]() *File to be posted by August 12, 2021*
+
+Download some of the podcasts we've recorded here:
+
+- [PC Mahalanobis](https://github.com/RaoVNV/Contexts/raw/main/podcast20200903pcmahalanobis.mp3)
+- [Trial of the Pyx](https://github.com/RaoVNV/Contexts/raw/main/podcast20200903trialofthepyx.mp3)
+- [Study costs](https://github.com/RaoVNV/Contexts/raw/main/podcast20200903eaglestexting.mp3)
+- [Working Memory]() *File to be posted by August 12, 2021*
 
 ## Project Team
 
