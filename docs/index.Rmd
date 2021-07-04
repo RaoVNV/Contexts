@@ -14,7 +14,7 @@ With context so inexorably tied to statistics instruction, how should statistics
 
 This question is at the heart of several small investigations conducted by a team of scholars. Together, they serve as a starting point and provide some creative ideas to help teachers design their statistics courses. 
 
-# How many datasets should I use? 
+# How many datasets should I use in one course? 
 
 This question was at the heart of an inquiry made by [V.N. Vimal Rao](https://raovnv.github.io/research.html) in the Spring of 2019. These considerations, balancing the cost of cognitive load with the benefit of schema building and abstraction were presented as a poster at the [2019 US Conference on Teaching Statistics](https://www.causeweb.org/cause/uscots/uscots19), and subsequently as an oral presentation at the [2019 Learning Sciences Graduate Student Conference](https://sites.google.com/view/lsgsc2021/archives/2019-archive?authuser=0).
 
@@ -37,7 +37,7 @@ Access project materials here:
 
 ## Project Team
 
-This project was conducted by members of [The Link Tank](z.umn.edu/TheLinkTank). In alphabetical order, the team members contributing to this project are: 
+This project was conducted by members of [The Link Tank](https://z.umn.edu/TheLinkTank). In alphabetical order, the team members contributing to this project are: 
 
 - Reba Koenen
 - Margaret Sullivan
